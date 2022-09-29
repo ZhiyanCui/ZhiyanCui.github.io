@@ -66,6 +66,6 @@ redirect_from:
 
 其他主页
 ======
- * CSDN(Chinese Software Developer Network) 博客:[CSDN](http://blog.csdn.net/qq_25352981?viewmode=contents)。目前已有683,059 的访问量.其内容包括机器学习，目标检测和图像处理。
+ * CSDN(Chinese Software Developer Network) 博客:[CSDN](http://blog.csdn.net/qq_25352981?viewmode=contents)。目前已有超过70万的访问量.其内容包括机器学习，目标检测和图像处理。
  * Github 主页: [GitHub](https://github.com/ZhiyanCui)
  * Google Scholar主页: [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=F5rAEloAAAAJ)
