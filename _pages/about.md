@@ -1,3 +1,18 @@
+个人信息
+------
+2019.01-2022.12   西安交通大学     博士研究生             控制科学与工程
+2021.08-2022.08   新加坡国立大学   国家公派联合培养博士生  设计与工程 
+2016.09-2018.12   西安交通大学     硕士研究生             控制科学与工程
+2011.09-2015.07   西安交通大学     本科生                 计算机科学与技术
+邮箱：cuizhiyan@stu.xjtu.edu.cn
+政治面貌：中共党员                出生年月：1992.08
+
+
+
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+
+
 ---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
