@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "崔志岩"
   avatar           : "cuizhiyan.png"
-  bio              : "西安交通大学"
+  bio              : "西安交通大学，博士研究生"
   location         : "西安"
   employer         :
   pubmed           : #"https://blog.csdn.net/qq_25352981?spm=1000.2115.3001.5343"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=F5rAEloAAAAJ&view_op=list_works&sortby=pubdate"
+  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=F5rAEloAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ZhiyanCui"
+  github           : #"https://github.com/ZhiyanCui"
   google_plus      :
   keybase          :
   instagram        :
