@@ -19,8 +19,7 @@ redirect_from:
 发表论文
 ======
 [1] **Zhiyan Cui**, Na Lu*, Weifeng Wang, Pseudo Loss Active Learning for Deep Visual Tracking, Pattern Recognition. 2022. (中科院一区，IF:8.52).
-[2] **Zhiyan Cui**, Qian Wang*, Jingjing Guo, Na Lu*, Few-shot Classification of Façade Defects Based on Extensible Classifier and Contrastive Learning. Automation in Construction. 2022. (中科院一区，IF:10.52).
-
+[2] **Zhiyan Cui**, Qian Wang*, Jingjing Guo, Na Lu*, Few-shot Classification of Façade Defects Based on Extensible Classifier and Contrastive Learning. Automation in Construction. 2022. (中科院一区，IF:10.52).  
 [3] **Zhiyan Cui**, Na Lu*. Feature Selection Accelerated Convolutional Neural Networks for Visual Tracking, Applied Intelligence.2021 (中科院二区，IF:5.08).
 [4] **Zhiyan Cui**, Na Lu*, Xue Jing, and Xiahao Shi. Fast Dynamic Convolutional Neural Networks for Visual Tracking. Asian Conference on Machine Learning, 2018. （CCF，C类会议, EI）
 [5] **Zhiyan Cui**, Na Lu*, Qian Wang*, Jingjing Guo, Jiaming Yang, Multiple Object Tracking Based on Tracking Compensation for Low-Resolution Scenarios, 2022. IEEE International Conference on Image Processing, Computer Vision and Machine Learning (ICICML2022, EI).
