@@ -20,10 +20,11 @@ redirect_from:
 [1] **Zhiyan Cui**, Na Lu\*, Weifeng Wang, Pseudo Loss Active Learning for Deep Visual Tracking, Pattern Recognition. 2022. (中科院一区，IF:8.52).  
 [2] **Zhiyan Cui**, Qian Wang\*, Jingjing Guo, Na Lu\*, Few-shot Classification of Façade Defects Based on Extensible Classifier and Contrastive Learning. Automation in Construction. 2022. (中科院一区，IF:10.52).  
 [3] **Zhiyan Cui**, Na Lu\*. Feature Selection Accelerated Convolutional Neural Networks for Visual Tracking, Applied Intelligence.2021 (中科院二区，IF:5.08).  
-[4] **Zhiyan Cui**, Na Lu\*, Xue Jing, and Xiahao Shi. Fast Dynamic Convolutional Neural Networks for Visual Tracking. Asian Conference on Machine Learning, 2018. （CCF，C类会议, EI）  
-[5] **Zhiyan Cui**, Na Lu\*, Qian Wang, Jingjing Guo, Jiaming Yang, Multiple Object Tracking Based on Tracking Compensation for Low-Resolution Scenarios, 2022. IEEE International Conference on Image Processing, Computer Vision and Machine Learning (ICICML2022, EI).  
-[6] Xu Niu, Na Lu\*, Jianghong Kang, **Zhiyan Cui**, Knowledge-driven Feature Component Interpretable Network for Motor Imagery Classification. Journal of Neural Engineering. 2022 (中科院二区，IF:5.37).  
-[7] Xiahao Shi, Na Lu\*, **Zhiyan Cui**. Smoke Detection Based on Dark Channel and Convolutional Neural Networks. IEEE International Conference on Big Data and Information Analytics (BigDIA), 2019.
+[4]	Na Lu\*, **Zhiyan Cui**, Huiyang Hu, Multi-view and Multi-level Network for Fault Diagnosis Accommodating Feature Transferability. Expert Systems With Applications. (中科院一区，IF:8.67).
+[5] **Zhiyan Cui**, Na Lu\*, Xue Jing, and Xiahao Shi. Fast Dynamic Convolutional Neural Networks for Visual Tracking. Asian Conference on Machine Learning, 2018. （CCF，C类会议, EI）  
+[6] **Zhiyan Cui**, Na Lu\*, Qian Wang, Jingjing Guo, Jiaming Yang, Multiple Object Tracking Based on Tracking Compensation for Low-Resolution Scenarios, 2022. IEEE International Conference on Image Processing, Computer Vision and Machine Learning (ICICML2022, EI).  
+[7] Xu Niu, Na Lu\*, Jianghong Kang, **Zhiyan Cui**, Knowledge-driven Feature Component Interpretable Network for Motor Imagery Classification. Journal of Neural Engineering. 2022 (中科院二区，IF:5.37).  
+[8] Xiahao Shi, Na Lu\*, **Zhiyan Cui**. Smoke Detection Based on Dark Channel and Convolutional Neural Networks. IEEE International Conference on Big Data and Information Analytics (BigDIA), 2019.
 
 申请专利
 ======
