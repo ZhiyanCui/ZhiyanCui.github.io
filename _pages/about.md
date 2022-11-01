@@ -70,4 +70,3 @@ redirect_from:
  * [CSDN](http://blog.csdn.net/qq_25352981?viewmode=contents)
  * [GitHub](https://github.com/ZhiyanCui)
  * [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=F5rAEloAAAAJ)
- * [知乎](https://www.zhihu.com/people/ha-lou-77-85)
